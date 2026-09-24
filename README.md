@@ -4,8 +4,8 @@
 
 | Nome | Matrícula | Papel |
 |---|---|---|
-| Igor Santos | SUA MATRÍCULA | Desenvolvedor, Documentador e Testador
-| Davi Henrique | 24009979 | Scrum Master e Desenvolvedor |
+| Igor Santos | 01815246 | Desenvolvedor, Documentador e Testador
+| Davi Henrique | 24009979 | Scrum Master, Desenvolver e Testador|
 
 ## Descrição
 
